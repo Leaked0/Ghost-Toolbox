@@ -11,6 +11,6 @@
 
 - How to use on any Windows ?
   - Lines to replace or delete:
-    - `goto :error_leq_build` by `rem goto :error_leq_build`
-    - `goto :error_location` by `rem goto :error_location`
+    - `goto :error_leq_build` by `rem goto :error_leq_build` (Allow Any Windows)
+    - `goto :error_location` by `rem goto :error_location` (Allow Any Folder Location(bad idea))
  
