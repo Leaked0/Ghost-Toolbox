@@ -10,4 +10,7 @@
 ## FAQ
 
 - How to use on any Windows ?
-  - Replace `goto :error_leq_build` by `rem goto :error_leq_build` or delete the line
+  - Lines to replace or delete:
+    - `goto :error_leq_build` by `rem goto :error_leq_build`
+    - `goto :error_location` by `rem goto :error_location`
+ 
